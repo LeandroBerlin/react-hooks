@@ -3,15 +3,17 @@
 This repository contains some examples how to use React hooks and
 how the same logic would be implemented in React class components or function component with hooks
 
+Introduction slides: [ReactHooks.pdf](ReactHooks.pdf)
+
 The examples:
-- A counter using a [class component with state](src/CounterClass.js)  
-- A counter using [the useState hook](src/CounterHooks.js)  
+- A counter using a [class component with state](src/Ccomponents/ounterClass.js)  
+- A counter using [the useState hook](src/components/CounterHooks.js)  
 
-- A counter using [lifecycle methods](src/CounterClassWithLifecycle.js)
-- A counter using [the useEffect hook](src/CounterWithEffect.js)
+- A counter using [lifecycle methods](src/components/CounterClassWithLifecycle.js)
+- A counter using [the useEffect hook](src/components/CounterWithEffect.js)
 
-- A product list using a [class component with states](src/ProductListClass.js)  
-- A product list [class component using hooks](src/ProductListHook.js) 
+- A product list using a [class component with states](src/components/ProductListClass.js)  
+- A product list [class component using hooks](src/components/ProductListHook.js) 
 
 
 # What Are Hooks, Exactly?
