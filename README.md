@@ -5,7 +5,7 @@ how the same logic would be implemented in React class components or function co
 
 Introduction slides: [ReactHooks.pdf](ReactHooks.pdf)
 
-The examples:
+## The examples:
 - A counter using a [class component with state](src/Ccomponents/ounterClass.js)  
 - A counter using [the useState hook](src/components/CounterHooks.js)  
 
